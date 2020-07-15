@@ -8,7 +8,7 @@ const ServerName: React.FC = () => {
             <Title>Servidor</Title>
 
             <ExpandIcon />
-        </Container >
+        </Container>
     );
 };
 
