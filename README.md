@@ -25,7 +25,7 @@
   <img alt="Frontend" src="https://github.com/marlon-developer/discord-clone/blob/master/src/assets/Screenshot.png" width="100%">
 </p>
 
-## :computer: Como Usar
+## :scroll: Como Usar
 
 1. Execute ``` npm install ``` or ``` yarn install ```
 2. Execute ``` yarn start ``` e accesse ``` http://localhost:3000 ```
