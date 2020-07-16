@@ -27,8 +27,8 @@
 
 ## :computer: Como Usar
 
-Execute npm install or yarn install
-Execute yarn start e accesse http://localhost:3000
+1. Execute ``` npm install ``` or ``` yarn install ```
+2. Execute ``` yarn start ``` e accesse ``` http://localhost:3000 ```
 
 ## :computer: Tecnologias
 
