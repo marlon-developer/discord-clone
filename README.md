@@ -29,9 +29,8 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [React](https://reactjs.org)
 - [Typescript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org)
 
 ## :books: Projeto
 
