@@ -10,10 +10,6 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marlon-developer/discord-clone">
   </a>
 
-  <a href="https://github.com/marlon-developer/discord-clone/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/marlon-developer/discord-clone">
-  </a>
-
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
