@@ -25,6 +25,11 @@
   <img alt="Frontend" src="https://github.com/marlon-developer/discord-clone/blob/master/src/assets/Screenshot.png" width="100%">
 </p>
 
+## :computer: Como Usar
+
+Execute npm install or yarn install
+Execute yarn start e accesse http://localhost:3000
+
 ## :computer: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
