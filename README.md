@@ -2,16 +2,16 @@
   Projeto de Estudo sobre JS, ReactJS e Typescript
 </h1>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marlon-developer/discord-clone">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-10">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marlon-developer/discord-clone">
   
-  <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-10">
+  <a href="https://github.com/marlon-developer/discord-clone/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marlon-developer/discord-clone">
   </a>
 
-  <a href="https://github.com/Rocketseat/semana-omnistack-10/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-10">
+  <a href="https://github.com/marlon-developer/discord-clone/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/marlon-developer/discord-clone">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
