@@ -27,7 +27,7 @@
 
 ## :scroll: Como Usar
 
-1. Execute ``` npm install ``` or ``` yarn install ```
+1. Execute ``` npm install ``` ou ``` yarn install ```
 2. Execute ``` yarn start ``` e accesse ``` http://localhost:3000 ```
 
 ## :computer: Tecnologias
