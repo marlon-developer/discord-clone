@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :books: Projeto
 
-O Clone Discord é um projeto realizado através da aula da Rocketseat para fins de estudo sobre as respectivas tecnologias.
+Este projeto foi realizado através da aula da Rocketseat para fins de estudo sobre as respectivas tecnologias.
 
 
 ## :memo: Licença
